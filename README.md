@@ -7,3 +7,7 @@ This repository contains a module for query-focused summarization of discussion 
 It implements Maximal Marginal Relevance (MMR) for a query-thread pair, and scores the posts in a thread using MMR. 
 
 The input format is highly specific for the DISCOSUMO project but the implementation of MMR might be reusable in other contexts.
+
+### License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (GNU-GPL v3.0).
