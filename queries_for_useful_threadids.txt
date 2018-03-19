@@ -1,0 +1,16 @@
+query	clicked title	threadid
+ontslagen	Ontslag vanwege grap	286745
+ontslag	Ontslag vanwege grap	286745
+ontslagen	Ontslag vanwege grap	286745
+ontslag	Ontslag vanwege grap	286745
+nub	Nub theorie 12 weken echo	282827
+nub theorie	Nub theorie 12 weken echo	282827
+nub theorie	Nub theorie 12 weken echo	282827
+zwanger	Einde relatie en zwanger	281465
+zwanger van	Einde relatie en zwanger	281465
+relatie	Einde relatie en zwanger	281465
+einde relatie	Einde relatie en zwanger	281465
+zwanger relatie	Einde relatie en zwanger	281465
+relatie over en nu	Einde relatie en zwanger	281465
+geen relatie	Einde relatie en zwanger	281465
+zwanger	Einde relatie en zwanger	281465
